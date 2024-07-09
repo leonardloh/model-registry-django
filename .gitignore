@@ -1,3 +1,5 @@
 venv
 db.sqlite3
 .ipynb_checkpoints
+api/__pycache__
+model_registy/__pycache__
